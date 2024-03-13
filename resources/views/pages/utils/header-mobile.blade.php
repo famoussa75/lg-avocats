@@ -27,7 +27,7 @@
                                 </div>
                                 <input type="submit" class="search-submit" value="Recherche" />
                                 <div class="attorna-top-search-close">
-                                    <i class="icon_close"></i>
+                                    <i class="icon_close"></i> 
                                 </div>
                             </form>
                         </div>
