@@ -47,7 +47,7 @@ Route::get('/Mentions-légales', function () {
     return view('pages/policy');
 })->name('policy');
 
-Route::get('/', function () {
+Route::get('/home', function () {
     return view('pages/index');
 })->name('accueil');
 
