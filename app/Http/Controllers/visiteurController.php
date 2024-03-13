@@ -45,6 +45,13 @@ class visiteurController extends Controller
     public function sendMessage(Request $request)
     {
         
+        $validate = Validator::make($request->all(), [
+            'g-recaptcha-response' => 'required|captcha'
+        ]);
+
+        if($validate->fails()){
+            return redirect()->back()->withErrors($validate);
+        }
         
         include_once 'verifications.php';
         $email = $request->input('email');
