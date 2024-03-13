@@ -34,46 +34,7 @@
 </head>
 
 <body>
-<style>
-    /* Ajoutez ces styles pour l'image d'arrière-plan */
-.carousel-item {
-    background-size: cover;
-    background-position: center;
-}
 
-/* Ajoutez ces styles pour le texte et le bouton */
-.carousel-item .container {
-    max-width: 100%;
-}
-
-.carousel-item h1 {
-    font-size: 2.5rem; /* Ajoutez une taille de police adaptative */
-}
-
-.carousel-item .btn-custom {
-    font-size: 1rem; /* Ajoutez une taille de police adaptative pour le bouton */
-}
-
-/* Ajoutez ces styles pour un meilleur ajustement sur les petits écrans */
-@media (max-width: 767px) {
-    .carousel-item {
-        height: 100vh; /* Ajustez la hauteur pour les petits écrans */
-    }
-
-    .carousel-item .container {
-        padding-top: 50px; /* Ajustez l'espacement en haut pour les petits écrans */
-    }
-
-    .carousel-item h1 {
-        font-size: 1.5rem; /* Ajustez la taille de la police pour les petits écrans */
-    }
-
-    .carousel-item .btn-custom {
-        font-size: 1rem; /* Ajustez la taille de la police pour les petits écrans */
-    }
-}
-
-</style>
 <div id="wrapper">
         <!-- header begin -->
 		@include('pages.utils.header') 
