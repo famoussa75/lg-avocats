@@ -23,7 +23,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 text-light" style="padding:20px" data-bgcolor="#143a33">
-                    <h3>Avez vous des questions ?</h3>
+                    <h3>Envoyez-nous un message.</h3>
                     <form name="contactForm" id="contact_form" class="form-border" action="{{route('sendMessage')}}" method="post">
                         @csrf
                         <div class="field-set">
