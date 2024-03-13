@@ -21,6 +21,22 @@
     <!-- section close -->
     <section aria-label="section">
         <div class="container">
+        @if (session()->has('success'))
+        <div class="alert alert-success alert-dismissible fade show" role="alert" style="background-size: cover;">
+             {{ session()->get('success') }}
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">×</span>
+            </button>
+        </div>
+         @endif
+         @if (session()->has('error'))
+        <div class="alert alert-danger alert-dismissible fade show" role="alert" style="background-size: cover;">
+             {{ session()->get('error') }}
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">×</span>
+            </button>
+        </div>
+         @endif
             <div class="row">
                 <div class="col-md-8 text-light" style="padding:20px" data-bgcolor="#143a33">
                     <h3>Envoyez-nous un message.</h3>
