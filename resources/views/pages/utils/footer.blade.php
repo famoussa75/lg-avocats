@@ -24,7 +24,7 @@
                         <address class="s1">
                             <span><i class="id-color fa fa-map-marker fa-lg"></i>Kipé, sur la T2, Commune de Ratoma, Conakry</span>
                             <span><i class="id-color fa fa-phone fa-lg"></i>+224 611 58 09 19</span>
-                            <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
+                            <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@lg-avocats.com">contact@lg-avocats.com</a></span>
                         </address>
                     </div>
                     <!-- <div class="col-lg-4">
