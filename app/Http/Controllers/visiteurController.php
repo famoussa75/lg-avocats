@@ -50,9 +50,8 @@ class visiteurController extends Controller
         ]);
 
         if($validate->fails()){
+            dd($validate->errors()->all());
             return redirect()->back()->withErrors($validate);
-        }else {
-            dd('ok');
         }
 
         
