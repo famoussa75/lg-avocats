@@ -46,7 +46,7 @@
                                 <strong>Veuillez confirmer que vous n'êtes pas un robot.</strong>
                             </span>
                         @endif
-                         <div class="g-recaptcha" data-sitekey="6LcfopcpAAAAAERyQXrbkrNgY1UBS4UZe0mUlJZL"></div>
+                         <div class="g-recaptcha" data-sitekey="6LcfopcpAAAAAFDuR8-0b7FQWkjtDZw51LsjHbJy"></div>
                         <div id="submit">
                             <input type="submit"  value="Envoyer" class="btn btn-custom" />
                         </div>
