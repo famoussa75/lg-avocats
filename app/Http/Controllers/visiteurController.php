@@ -49,8 +49,9 @@ class visiteurController extends Controller
             'g-recaptcha-response' => 'required|captcha'
         ]);
 
+        dd($validate->errors()->all());
+
         if($validate->fails()){
-            dd($validate->errors()->all());
             return redirect()->back()->withErrors($validate);
         }
 
