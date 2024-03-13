@@ -43,7 +43,7 @@
                         <div class="spacer-half"></div>
                         @if ($errors->has('g-recaptcha-response'))
                             <span class="help-block">
-                                <strong>Veuillez confirmer que vous n'êtes pas un robot.</strong>
+                                <strong style="color:red">Veuillez confirmer que vous n'êtes pas un robot.</strong>
                             </span>
                         @endif
                          <div class="g-recaptcha" data-sitekey="6LcfopcpAAAAAFDuR8-0b7FQWkjtDZw51LsjHbJy"></div>
