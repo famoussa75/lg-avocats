@@ -36,7 +36,7 @@
 <body>
 <div id="wrapper">
         <!-- header begin -->
-		@include('pages.utils.header')
+		@include('pages.utils.header') 
         <!-- header close -->
 
 			<!-- Page content -->
