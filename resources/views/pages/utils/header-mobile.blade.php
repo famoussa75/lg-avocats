@@ -55,7 +55,7 @@
                                 <a href="{{ route('equipe') }}">L'équipe</a>
                             </li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6948">
-                                <a href="{{ route('blog') }}">Actualités</a>
+                                <a href="{{ route('blog') }}">Activités</a>
                             </li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6948">
                                 <a href="{{ route('contact') }}">Contactez - nous</a>

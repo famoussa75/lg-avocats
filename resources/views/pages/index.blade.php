@@ -425,7 +425,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="text-center">
-                        <h2>Actualités recentes</h2>
+                        <h2>Activités recentes</h2>
                         <div class="small-border"></div>
                     </div>
                 </div>

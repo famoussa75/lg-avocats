@@ -19,7 +19,7 @@
                                     <li><a href="{{route('accueil')}}">Accueil</a></li>
                                     <li><a href="{{route('about')}}">À propos de nous</a></li>
                                     <li><a href="{{route('expertises')}}">Domaines d'expertises</a></li>
-                                    <li><a href="{{route('blog')}}">Actualités</a></li>
+                                    <li><a href="{{route('blog')}}">Activités</a></li>
                                     <li><a href="{{route('contact')}}">Contactez - nous</a></li>
                                     
                                 </ul>

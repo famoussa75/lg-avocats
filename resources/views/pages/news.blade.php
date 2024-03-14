@@ -7,7 +7,7 @@
   <div class="container">
 
     <div class="d-flex justify-content-between align-items-center">
-      <h2>{{ __('Actualités') }}</h2>
+      <h2>{{ __('Activités') }}</h2>
     
     </div>
 

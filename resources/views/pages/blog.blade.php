@@ -11,7 +11,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 text-center">
-                                <h1>Actualités</h1>
+                                <h1>Activités</h1>
                                 <p>Réputation. Respect. Résultat.</p>
                             </div>
                             <div class="clearfix"></div>
