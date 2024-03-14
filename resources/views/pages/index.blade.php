@@ -15,7 +15,7 @@
         <!-- Inner -->
         <div class="carousel-inner">
             <!-- Single item -->
-            <div class="carousel-item active" data-bgimage="url(assets/images/slider/1.jpg)">
+            <div class="carousel-item active"  style="background-image:url('assets/images/slider/1.jpg')">
                 <div class="mask">
                     <div class="d-flex justify-content-center align-items-center h-100">
                         <div class="container text-white">
@@ -33,7 +33,7 @@
             </div>
 
             <!-- Single item -->
-            <div class="carousel-item" data-bgimage="url(assets/images/slider/2.jpg)">
+            <div class="carousel-item" style="background-image:url('assets/images/slider/2.jpg')">
                 <div class="mask">
                     <div class="d-flex justify-content-center align-items-center h-100">
                         <div class="container text-white">
