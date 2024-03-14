@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8" />
     <title>LG - AVOCATS</title>
-    <link rel="icon" href="images/icon.png" type="image/gif" sizes="16x16">
+    <link rel="icon" href="{{ asset('assets/images/logo.jpg') }}" type="image/gif" sizes="16x16">
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="Conseil - Assistance - Défense - Représentation" name="description" />
     <meta content="" name="keywords" />
