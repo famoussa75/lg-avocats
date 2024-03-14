@@ -84,7 +84,7 @@
                     <div class="de-card-poster" style="background-size: cover;">
                         <a class="d-overlay" href="{{route('service-4')}}">
                             <div class="d-content" style="background-size: cover;">
-                                <h3><i class="id-color icofont-law-order"></i>Répresentation</h3>
+                                <h3><i class="id-color icofont-law-order"></i>Représentation</h3>
                                 <div class="d-text" style="background-size: cover;">
                                 Nous comprenons que les affaires juridiques peuvent être complexes et déroutantes. C'est pourquoi notre équipe d'avocats expérimentés est là pour représenter nos clients [...]
                                 </div>

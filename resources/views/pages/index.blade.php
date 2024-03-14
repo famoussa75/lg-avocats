@@ -181,7 +181,7 @@
                         <a class="dcg-url" href="{{route('service-4')}}"></a>
                         <img class="dcg-image" src="assets/images/practice-areas/3.jpg" alt="">
                         <div class="dcg-title" style="background-size: cover;"><i
-                                class="id-color icofont-law-order"></i>Répresentation</div>
+                                class="id-color icofont-law-order"></i>Représentation</div>
                         <div class="dcg-content" style="background-size: cover;">Nous comprenons que les affaires
                             juridiques peuvent être complexes et déroutantes. C'est pourquoi notre équipe d'avocats
                             expérimentés est là pour représenter nos clients [...]</div>
