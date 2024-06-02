@@ -47,7 +47,7 @@
                         <div>
                             <x-input-label for="name" :value="__('Saisissez le contenu')" />
                             <textarea  name="contenu" rows="4" id="summernote"
-                                class="mt-1 block w-full border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 rounded-md shadow-sm"></textarea>
+                                class="mt-1 block w-full border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 rounded-md shadow-sm tinymce-editor"></textarea>
 
                         </div>
                         <div>
