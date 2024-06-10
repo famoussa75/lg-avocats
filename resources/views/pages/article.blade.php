@@ -44,7 +44,7 @@
                         </div>
                       
                     </div>
-                    <div class="spacer-single"></div>
+                    <!-- <div class="spacer-single"></div> -->
                     <!-- <div id="blog-comment">
                         <h4>Comments (5)</h4>
                         <div class="spacer-half"></div>
