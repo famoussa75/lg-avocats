@@ -32,7 +32,7 @@
                         @else
                         <img alt="" src="{{URL::to('/')}}/{{$article[0]->image_article}}" class="img-fullwidth">
                         @endif
-                        <div class="post-text" style="height:850px;overflow: auto;">
+                        <div class="post-text" style="height:750px;overflow: auto;">
                               <?php echo $article[0]->contenu; ?>
                               @if($article[0]->contenu_pdf)
                               <object data="{{ URL::to('/') }}/{{ $article[0]->contenu_pdf }}" type="application/pdf" width="100%" height="600px">
@@ -152,7 +152,7 @@
                 </div>
                 <div id="sidebar" class="col-md-4">
                     <div class="widget widget-post">
-                        <h4>Articles recents</h4>
+                        <h4>Articles récents</h4>
                         <div class="small-border"></div>
                         <ul>
                             @foreach($recents as $r)
