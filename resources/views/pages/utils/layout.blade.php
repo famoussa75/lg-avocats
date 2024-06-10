@@ -30,6 +30,9 @@
     <link rel="stylesheet" href="{{ asset('assets/revolution/css/settings.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('assets/revolution/css/layers.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('assets/revolution/css/navigation.css') }}" type="text/css">
+    <link rel="stylesheet" href="{{ asset('assets/tagsinput/bootstrap-tagsinput.css') }}">
+    <script src="{{ asset('assets/tinymce/tinymce.min.js') }}"></script>
+
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 

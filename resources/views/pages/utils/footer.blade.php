@@ -4,7 +4,7 @@
                     <div class="col-lg-3" style="border-right:1px solid white">
                         <div class="widget">
                             <a href="{{route('accueil')}}">
-                                <img alt="" class="img-fluid mb20" src="assets/images/logo.jpg" style="height:100px;">                     
+                                <img alt="" class="img-fluid mb20" src="{{ asset('assets/images/logo.jpg') }}" style="height:100px;">                     
                             </a>
                           
                         </div>

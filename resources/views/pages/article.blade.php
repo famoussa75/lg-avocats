@@ -32,7 +32,7 @@
                         @else
                         <img alt="" src="{{URL::to('/')}}/{{$article[0]->image_article}}" class="img-fullwidth">
                         @endif
-                        <div class="post-text">
+                        <div class="post-text" style="height:850px;overflow: auto;">
                               <?php echo $article[0]->contenu; ?>
                               @if($article[0]->contenu_pdf)
                               <object data="{{ URL::to('/') }}/{{ $article[0]->contenu_pdf }}" type="application/pdf" width="100%" height="600px">
@@ -164,6 +164,7 @@
                     </div>
                 
                 </div>
+                
             </div>
         </div>
     </section>
