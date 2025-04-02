@@ -73,7 +73,7 @@
                 <div class="col-md-4">
                     <div class="map-section">
                         <iframe style="border:0; width: 100%; height: 350px;"
-                            src="https://maps.google.com/maps?q=9.601261,%20-13.639518&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                            src="https://maps.google.com/maps?q=9.6001393,%20-13.6413479&t=&z=13&ie=UTF8&iwloc=&output=embed"
                             frameborder="0" allowfullscreen=""></iframe>
                     </div>
                     <h3>Nos locaux</h3>
