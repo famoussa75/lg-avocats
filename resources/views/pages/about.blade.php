@@ -206,7 +206,7 @@
                         Collaboratrice Juridique
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".4s">
+                <!-- <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".4s">
                     <div class="f-profile text-center">
                         <div class="fp-wrap f-invert">
                             <div class="fpw-overlay">
@@ -223,7 +223,7 @@
                         <h4><a href="#">Cécé Elvis GBILIMOU</a></h4>
                         Collaborateur Juridique
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
                     <div class="f-profile text-center">
                         <div class="fp-wrap f-invert">
