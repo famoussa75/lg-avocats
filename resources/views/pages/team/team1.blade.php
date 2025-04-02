@@ -29,7 +29,7 @@
                     <h2>
                         Paul Lazard GBILIMOU
                     </h2>
-                    <p>Avocat au Barreau de Guinée,  Maître Paul Lazard GBILIMOU est spécialisé en arbitrage de l'investissement, droit de l'arbitrage commercial, en droit pénal et droit pénal des affaires. Avec plusieurs années d'expérience professionnelle dans la défense et le conseil,  il a fait ses premiers pas au cabinet de Maître Salifou BEAVOGUI puis au cabinet TOGBA ZOGBELEMOU avant  de penser ouvrir le LG AVOCATS en juillet 2023. </p>
+                    <p>Avocat au Barreau de Guinée,  Maître Paul Lazard GBILIMOU est spécialisé en arbitrage de l'investissement, en droit de l'arbitrage commercial, en droit pénal et droit pénal des affaires. Avec plusieurs années d'expérience professionnelle dans la défense et le conseil,  il a fait ses premiers pas au cabinet de Maître Salifou BEAVOGUI puis au cabinet TOGBA ZOGBELEMOU avant  de penser ouvrir le LG AVOCATS en juillet 2023. </p>
                     <p>Son expertise s'étant sur:</p>
                     <ul>
                         <li>Le droit de l'arbitrage de l'investissement et commercial ;</li>
