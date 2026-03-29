@@ -96,9 +96,7 @@ Route::get('/paul-lazard-gbilimou', function () {
     return view('pages/team/team1');
 })->name('team1');
 
-Route::get('/thierno-diallo', function () {
-    return view('pages/team/team2');
-})->name('team2');
+
 
 
 

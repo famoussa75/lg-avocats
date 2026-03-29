@@ -273,24 +273,7 @@
                         Avocat à la cour
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".4s">
-                    <div class="f-profile text-center">
-                        <div class="fp-wrap f-invert">
-                            <div class="fpw-overlay">
-                                <div class="fpwo-wrap">
-                                    <div class="fpwow-icons">
-                                        <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                        <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="fpw-overlay-btm"></div>
-                            <img src="assets/images/team/2.jpg" class="fp-image img-fluid" alt="">
-                        </div>
-                        <h4><a href="{{route('team2')}}">Thierno DIALLO</a></h4>
-                        Avocat à la cour
-                    </div>
-                </div>
+              
                 <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
                     <div class="f-profile text-center">
                         <div class="fp-wrap f-invert">
